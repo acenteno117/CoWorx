@@ -1319,7 +1319,8 @@ footer {
 }
 
 .home-banner {
-  background: url("^media_src_home-banner.png^") #fff no-repeat top right;
+ /* background: url("^media_src_home-banner.png^") #fff no-repeat top right; */
+  background: url("../img/home-banner.png") #fff no-repeat top right;
   background-size: cover;
   height: 450px;
   position: relative;
@@ -1327,7 +1328,8 @@ footer {
 }
 
 .benefits-home {
-  background: url("^media_src_home-benefits-banner.png^") #fff no-repeat center center;
+  /*background: url("^media_src_home-benefits-banner.png^") #fff no-repeat center center; */
+  background: url("../img/home-benefits-banner.png") #fff no-repeat center center;
   background-size: cover;
   position: relative;
 }

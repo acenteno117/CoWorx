@@ -1536,7 +1536,8 @@ section.not-ready .not-ready-text .not-ready-join a:hover, section.not-ready .no
 
 @media (min-width: 768px) {
   .home-banner {
-    background-image: url("^media_src_home-banner.png^");
+   /* background-image: url("^media_src_home-banner.png^"); */
+   background-image: url("../img/home-banner.png");
     background-size: cover;
     height: 570px;
   }
@@ -1550,7 +1551,8 @@ section.not-ready .not-ready-text .not-ready-join a:hover, section.not-ready .no
     margin-bottom: 35px;
   }
   .benefits-home {
-    background: url("^media_src_home-benefits-banner.png^") #fff no-repeat center center;
+    /* background: url("^media_src_home-benefits-banner.png^") #fff no-repeat center center;*/
+    background: url("../img/home-benefits-banner.png") #fff no-repeat center center;
     background-size: cover;
     position: relative;
   }
